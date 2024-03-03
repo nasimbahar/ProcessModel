@@ -1,0 +1,30 @@
+<?php
+
+return [
+
+    'company_chart_id'=>'Account Type',
+    'capital_account_id'=>'Capital Account',
+    'date'=>'Date',
+    'paid_by'=>'Paid By',
+    'paid_to'=>'Paid To',
+    'project_id'=>'Project',
+    'vendor_id'=>'Vendor',
+    'attachments'=>'Attachments',
+    'description'=>'Description',
+    'expensedetials'=>'Expense detials',
+    'bill_no'=>'Bill no',
+    'unit'=>'Unit',
+    'quantity'=>'Quantity',
+    'amount'=>'Amount',
+    'total'=>'Total',
+    'paid'=>'Paid',
+    'balance'=>'Balance',
+    'memo'=>'Memo',
+    'expesepayment'=>'New payment',
+    'seeallrecipts'=>'See All Recipts',
+    'username'=>'User Name',
+    'price'=>'Price',
+    'account_type_id'=>'Accounts',
+    'expense_account_type_id'=>'Expense Account',
+    ''=>'',
+    ];
